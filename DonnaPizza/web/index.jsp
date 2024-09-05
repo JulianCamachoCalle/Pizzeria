@@ -161,7 +161,6 @@
                 color: white !important;
                 border: none !important;
                 border-radius: 0.375rem !important;
-                padding: 0.938rem 1.25rem !important;
                 font-family: "Montserrat" !important;
                 font-size: 18px !important;
                 font-weight: 850 !important;
@@ -275,7 +274,7 @@
                 </div>
             </div>
             <div class="contenedor-boton-compra">
-                <button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
+                <button type="button" class="btn btn-danger px-3 py-2" data-bs-toggle="modal" data-bs-target="#staticBackdrop">
                     Carta Completa
                 </button>
             </div>
